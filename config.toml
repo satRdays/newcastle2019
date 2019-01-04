@@ -301,7 +301,7 @@ googleAnalytics = "UA-131777647-1"
       link = "https://www.jumpgingrivers.com"
 
     [[params.clients]]
-      logo = "ncl.jpg"
+      logo = "ncl.png"
       link = "https://www.ncl.ac.uk/"
 
   
