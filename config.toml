@@ -161,9 +161,9 @@ googleAnalytics = "UA-131777647-1"
     enable = true
     title = "Call For Papers"
     bg = false
-    CfSpage = "/test3490"
+    CfSpage = "/satrdays-newcastle-2019"
       # Go to Organizer > My Events > Dashboard and copy the "CfS Page" string into the `CfSpage` value
-    dates = "09 Aug - 21 Sep 2018"
+    dates = "20 Jan - 22 Feb 2019"
 
   # Talk [Portfolio] section
   [params.portfolio]
@@ -225,10 +225,11 @@ googleAnalytics = "UA-131777647-1"
   # Location section
   [params.location]
     enable = true
-    title = "Location title"
+    title = "Herschel Building, Newcastle University"
     bg = true
-    iframesrc = "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12770.336629178193!2d174.7680403!3d-36.8524341!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x868a73f26ed3e621!2sDepartment+of+Statistics%2C+University+of+Auckland!5e0!3m2!1sen!2suk!4v1533231461829"
-
+    iframesrc =
+  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2289.7320161875055!2d-1.6180167482177468!3d54.977798580256845!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487e70cb89702089%3A0x8aa099bf09a9d91c!2sHerschel+Building!5e0!3m2!1sen!2suk!4v1546615239322"
+  
   # Team section
   [params.team]
     enable = true
