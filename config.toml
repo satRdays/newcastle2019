@@ -334,7 +334,7 @@ googleAnalytics = "UA-131777647-1"
     # as an example the mailout plugin from caddy.
     # Provide the post URL for the form and depending on the provider
     # add some custom JS script to finish the implementation.
-    # postURL = "https://example.com/mailout/"
+    postURL = "https://formspree.io/"
 
     email = "colin@jumpingrivers.com"
 
