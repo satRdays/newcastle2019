@@ -246,8 +246,8 @@ googleAnalytics = "UA-131777647-1"
     # Replace them with your own too.
     # Suggestion: Image size should be at least 360px*360px or the alignment might be affected.
     [[params.team.members]]
-      img = "faceholder.png"
-      name = "Organiser Name 1"
+      img = "profile-colin.jpg"
+      name = "Colin Gillespie"
       position = "Organiser Position 1"
       reportsTo = ""
       livesIn = "[Munich, Germany](#some-maps-url)"
@@ -260,9 +260,9 @@ googleAnalytics = "UA-131777647-1"
       bio = """I do things,
       and stuff"""
       social = [
-        ["fa-twitter", "#"],
-        ["fa-github", "#"],
-        ["fa-linkedin", "#"]
+        ["fa-twitter", "https://twitter.com/csgillespie"],
+        ["fa-github", "https://github.com/csgillespie"],
+        ["fa-linkedin", "https://www.linkedin.com/in/colin-gillespie-25028332/"]
       ]
 
     [[params.team.members]]
