@@ -342,7 +342,7 @@ googleAnalytics = "UA-131777647-1"
     thanks = "Thank you for awesomely contacting us."
     error = "Message could not be send. Please contact us at colin@jumpingrivers.con instead."
 
-    [params.contact.captcha]
+#    [params.contact.captcha]
       # sitekey = ""
 
     # 'warning' defines error messages for invalid inputs
@@ -354,9 +354,9 @@ googleAnalytics = "UA-131777647-1"
       text = "Your Email *"
       warning = "Please enter your email address."
 
-    [params.contact.form.phone]
-      text = "Your Phone *"
-      warning = "Please enter your phone number."
+#    [params.contact.form.phone]
+#      text = "Your Phone *"
+#      warning = "Please enter your phone number."
 
     [params.contact.form.message]
       text = "Your Message *"
