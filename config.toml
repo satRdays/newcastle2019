@@ -314,7 +314,7 @@ googleAnalytics = "UA-131777647-1"
   [params.contact]
     enable = true
     title = "Contact us"
-    #subtitle  = "Lorem ipsum dolor sit amet consectetur."
+    subtitle  = "We're here to help!"
     buttonText = "Send message"
     # netlify = true
 
@@ -334,7 +334,7 @@ googleAnalytics = "UA-131777647-1"
     # as an example the mailout plugin from caddy.
     # Provide the post URL for the form and depending on the provider
     # add some custom JS script to finish the implementation.
-    postURL = "https://formspree.io/"
+    postURL = "https://formspree.io/colin@jumpingrivers.com"
 
     email = "colin@jumpingrivers.com"
 
