@@ -274,15 +274,15 @@ googleAnalytics = "UA-131777647-1"
       #  ["fa-linkedin", "#"]
       #]
 
- #   [[params.team.members]]
- #     img = "faceholder.png"
- #     name = "Organiser Name 3"
- #     position = "Organiser Position 3"
- #     social = [
- #       ["fa-twitter", "#"],
- #       ["fa-github", "#"],
- #       ["fa-linkedin", "#"]
- #     ]
+    [[params.team.members]]
+      img = "faceholder.png"
+      name = "Ahmed Salhin"
+      #position = "Organiser Position 3"
+      #social = [
+      #  ["fa-twitter", "#"],
+      #  ["fa-github", "#"],
+      #  ["fa-linkedin", "#"]
+      #]
 
   # Client section
   [params.clients_list]
@@ -336,11 +336,11 @@ googleAnalytics = "UA-131777647-1"
     # add some custom JS script to finish the implementation.
     # postURL = "https://example.com/mailout/"
 
-    email = "info@jumpingrivers.com"
+    email = "colin@jumpingrivers.com"
 
     # Success and error message overwrite for async contact form
-    #thanks = "Thank you for awesomely contacting us."
-    #error = "Message could not be send. Please contact us at mail@example.com instead."
+    thanks = "Thank you for awesomely contacting us."
+    error = "Message could not be send. Please contact us at colin@jumpingrivers.cin instead."
 
     [params.contact.captcha]
       # sitekey = ""
