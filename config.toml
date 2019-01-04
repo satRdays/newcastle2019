@@ -227,8 +227,7 @@ googleAnalytics = "UA-131777647-1"
     enable = true
     title = "Herschel Building, Newcastle University"
     bg = true
-    iframesrc =
-  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2289.7320161875055!2d-1.6180167482177468!3d54.977798580256845!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487e70cb89702089%3A0x8aa099bf09a9d91c!2sHerschel+Building!5e0!3m2!1sen!2suk!4v1546615239322"
+    iframesrc ="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2289.7320161875055!2d-1.6180167482177468!3d54.977798580256845!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487e70cb89702089%3A0x8aa099bf09a9d91c!2sHerschel+Building!5e0!3m2!1sen!2suk!4v1546615239322"
   
   # Team section
   [params.team]
@@ -266,24 +265,24 @@ googleAnalytics = "UA-131777647-1"
       ]
 
     [[params.team.members]]
-      img = "faceholder.png"
-      name = "Organiser Name 2"
-      position = "Organiser Position 2"
-      social = [
-        ["fa-twitter", "#"],
-        ["fa-github", "#"],
-        ["fa-linkedin", "#"]
-      ]
+      img = "profile-theo.jpg"
+      name = "Theo Roe"
+      #position = "Organiser Position 2"
+      #social = [
+      #  ["fa-twitter", "#"],
+      #  ["fa-github", "#"],
+      #  ["fa-linkedin", "#"]
+      #]
 
-    [[params.team.members]]
-      img = "faceholder.png"
-      name = "Organiser Name 3"
-      position = "Organiser Position 3"
-      social = [
-        ["fa-twitter", "#"],
-        ["fa-github", "#"],
-        ["fa-linkedin", "#"]
-      ]
+ #   [[params.team.members]]
+ #     img = "faceholder.png"
+ #     name = "Organiser Name 3"
+ #     position = "Organiser Position 3"
+ #     social = [
+ #       ["fa-twitter", "#"],
+ #       ["fa-github", "#"],
+ #       ["fa-linkedin", "#"]
+ #     ]
 
   # Client section
   [params.clients_list]
@@ -298,20 +297,13 @@ googleAnalytics = "UA-131777647-1"
     # Replace them with your clients's logos.
     # Suggestion: .svg in the size of 280px*80px looks good
     [[params.clients]]
-      logo = "envato.jpg"
-      link = "#"
+      logo = "jumping-rivers.png"
+      link = "https://www.jumpgingrivers.com"
 
     [[params.clients]]
       logo = "designmodo.jpg"
       link = "#"
 
-    [[params.clients]]
-      logo = "themeforest.jpg"
-      link = "#"
-
-    [[params.clients]]
-      logo = "creative-market.jpg"
-      link = "#"
   
   [params.diversity]
     enable = true
@@ -344,7 +336,7 @@ googleAnalytics = "UA-131777647-1"
     # add some custom JS script to finish the implementation.
     # postURL = "https://example.com/mailout/"
 
-    email = "your@email.com"
+    email = "info@jumpingrivers.com"
 
     # Success and error message overwrite for async contact form
     #thanks = "Thank you for awesomely contacting us."
