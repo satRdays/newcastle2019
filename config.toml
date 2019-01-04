@@ -1,7 +1,7 @@
 # Site settings
-baseurl = "https://satrdays-event-template.netlify.com/"
-languageCode = "en-us"
-title = "satRday"
+baseurl = "https://newcastle2019.satrdays.org"
+languageCode = "en-uk"
+title = "satRday Newcastle 2019"
 theme = ["hugo-satrdays-theme", "hugo-agency-theme"]
 
 # Enter your tracking code to enable Google Analytics
