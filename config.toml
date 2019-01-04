@@ -248,17 +248,17 @@ googleAnalytics = "UA-131777647-1"
     [[params.team.members]]
       img = "profile-colin.jpg"
       name = "Colin Gillespie"
-      position = "Organiser Position 1"
-      reportsTo = ""
-      livesIn = "[Munich, Germany](#some-maps-url)"
-      scope = [
-        "Role 1 for [thing 1](#)",
-        "Role 2 for [thing 2](#)",
-        "Role 3 for [thing 3](#)"
-      ]
+      #position = "Organiser Position 1"
+      #reportsTo = ""
+      #livesIn = "[Munich, Germany](#some-maps-url)"
+      #scope = [
+      #  "Role 1 for [thing 1](#)",
+      #  "Role 2 for [thing 2](#)",
+      #  "Role 3 for [thing 3](#)"
+      #]
       # For bio markdown and even multiline strings are available.
-      bio = """I do things,
-      and stuff"""
+     # bio = """I do things,
+     # and stuff"""
       social = [
         ["fa-twitter", "https://twitter.com/csgillespie"],
         ["fa-github", "https://github.com/csgillespie"],
