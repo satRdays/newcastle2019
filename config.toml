@@ -33,7 +33,7 @@ googleAnalytics = "UA-131777647-1"
   # 404 error customization
   [params.error404]
     heading = "Page couldn't be found"
-    text = "Please visit [this page](/)"
+    text = "Perhaps try our [homepage](https://newcastle2019.satrdays.org/) again"
 
   # Optional piwik tracking
   #[params.analytics.piwik]
@@ -77,8 +77,8 @@ googleAnalytics = "UA-131777647-1"
   [params.hero]
     # To change the background image of the hero, replace 'header-bg.jpg' in
     # the 'static/img' folder.
-    title = "satRday [My City]"
-    subtitle = "A conference for users of the R Language on [Conference Date]"
+    title = "satRday Newcastle 2019"
+    subtitle = "A conference for users of the R Language on April 6th"
     bg = true
     buttonText = "Tell me more"
 
@@ -94,7 +94,7 @@ googleAnalytics = "UA-131777647-1"
     [[params.services.row.list]]
       icon = "fa-clock-o"
       title = "Details"
-      description = "[Conference Date] at [Conference Location]"
+      description = "April 6th at Newcastle University"
       url = "#"
 
     [[params.services.row.list]]
@@ -118,7 +118,7 @@ googleAnalytics = "UA-131777647-1"
     [[params.services.row.list]]
       icon = "fa-money"
       title = "Affordable"
-      description = "Only [£30]"
+      description = "Only £30"
       url = "#"
 
     [[params.services.row.list]]
