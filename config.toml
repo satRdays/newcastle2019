@@ -275,14 +275,14 @@ googleAnalytics = "UA-131777647-1"
       #]
 
     [[params.team.members]]
-      img = "faceholder.png"
+      img = "profile-ahmed.png"
       name = "Ahmed Salhin"
       #position = "Organiser Position 3"
-      #social = [
-      #  ["fa-twitter", "#"],
-      #  ["fa-github", "#"],
-      #  ["fa-linkedin", "#"]
-      #]
+      social = [
+        ["fa-twitter", "https://twitter.com/AhmedSalhin"],
+        ["fa-github", "https://github.com/ahmedsalhin"],
+        ["fa-linkedin", "https://www.linkedin.com/in/ahmedsalhin/"]
+       ]
 
   # Client section
   [params.clients_list]
