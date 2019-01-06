@@ -278,11 +278,11 @@ googleAnalytics = "UA-131777647-1"
       img = "profile-theo.jpg"
       name = "Theo Roe"
       #position = "Organiser Position 2"
-      #social = [
+      social = [
       #  ["fa-twitter", "#"],
-      #  ["fa-github", "#"],
-      #  ["fa-linkedin", "#"]
-      #]
+        ["fa-github", "https://github.com/theoroe3"],
+        ["fa-linkedin", "https://www.linkedin.com/in/theoroe3/"]
+      ]
 
     [[params.team.members]]
       img = "profile-ahmed.png"
