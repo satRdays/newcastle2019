@@ -265,6 +265,16 @@ googleAnalytics = "UA-131777647-1"
       ]
 
     [[params.team.members]]
+      img = "profile-caterina.png"
+      name = "Caterina Constantinescu"
+      #position = "Organiser Position 2"
+      social = [
+        ["fa-twitter", "#"],
+        ["fa-github", "https://github.com/CaterinaC"],
+        ["fa-linkedin", "https://www.linkedin.com/in/alexandra-caterina-constantinescu-8168355a/"]
+      ]
+
+    [[params.team.members]]
       img = "profile-theo.jpg"
       name = "Theo Roe"
       #position = "Organiser Position 2"
