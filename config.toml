@@ -234,8 +234,8 @@ googleAnalytics = "UA-131777647-1"
     enable = true
     # Possibility to center items
     #center = true
-    title = "Team"
-    subtitle = "The people putting it together"
+    title = "Organising committee"
+    #subtitle = "The people putting it together"
     bg = false
     description = ""
     speakers = "Speakers"
