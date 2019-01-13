@@ -129,23 +129,23 @@ googleAnalytics = "UA-131777647-1"
 
   # Register section
   # You only need ONE of these active
-  [params.tito]
-    enable = true
-    title = "Register"
-    bg = true
-    accountevent = "ultimateconf/2013"
-      # Go to https://ti.to/ and find the account (under your user) and event pair string e.g. "cardiff-satrday/2018"
-      # include botht the account and event in a string, seperated by /, with no spaces
+  # [params.tito]
+  #   enable = true
+  #   title = "Register"
+  #   bg = true
+  #   accountevent = "ultimateconf/2013"
+  #     # Go to https://ti.to/ and find the account (under your user) and event pair string e.g. "cardiff-satrday/2018"
+  #     # include botht the account and event in a string, seperated by /, with no spaces
 
-  [params.eventbrite]
-    enable = true
-    title = "Register"
-    bg = true
-    eid = "32416000129" 
-      # Go to https://www.eventbrite.co.uk/support/articles/en_US/How_To/how-to-sell-eventbrite-tickets-registrations-on-your-website-using-embeddable-widgets?lg=en_GB 
-      # Follow instructions to discover your 'Website Integration' embeddable iframe
-      # Take ONLY the numeric string between "eid=" and "&ref=etckt"
-      # Supply this string as the value to `eid` above
+  # [params.eventbrite]
+  #   enable = true
+  #   title = "Register"
+  #   bg = true
+  #   eid = "32416000129" 
+  #     # Go to https://www.eventbrite.co.uk/support/articles/en_US/How_To/how-to-sell-eventbrite-tickets-registrations-on-your-website-using-embeddable-widgets?lg=en_GB 
+  #     # Follow instructions to discover your 'Website Integration' embeddable iframe
+  #     # Take ONLY the numeric string between "eid=" and "&ref=etckt"
+  #     # Supply this string as the value to `eid` above
 
   [params.tickettailor]
     enable = true
@@ -200,25 +200,25 @@ googleAnalytics = "UA-131777647-1"
     # Replace them with your own.
     [[params.about.events]]
       img = "1.jpg"
-      date = "First Date"
-      title = "Initial Announcement"
-      description = "We're organising a conference!"
+      date = "20 January, 2019"
+      title = "Call for papers"
+      description = "Call for papers"
 
-    [[params.about.events]]
-      img = "2.jpg"
-      date = "Second Date"
-      title = "Early Bird Ticket Sales"
-      description = "Early round of tickets now available at discount"
+    # [[params.about.events]]
+    #   img = "2.jpg"
+    #   date = "Second Date"
+    #   title = "Early Bird Ticket Sales"
+    #   description = "Early round of tickets now available at discount"
 
     [[params.about.events]]
       img = "3.jpg"
-      date = "Third Date"
-      title = "Call For Papers"
-      description = "Submissions for speakers are now open!"
+      date = "27 January, 2019"
+      title = "Registration open"
+      description = "Limited tickets - be quick"
 
     [[params.about.events]]
       img = "4.jpg"
-      date = "Fourth Date"
+      date = "22nd February"
       title = "Call For Papers Ends"
       description = "Cut off date for speaker submissions"
   
@@ -348,38 +348,38 @@ googleAnalytics = "UA-131777647-1"
 
     email = "colin@jumpingrivers.com"
 
-    # Success and error message overwrite for async contact form
-    thanks = "Thank you for awesomely contacting us."
-    error = "Message could not be send. Please contact us at colin@jumpingrivers.con instead."
+#     # Success and error message overwrite for async contact form
+#     thanks = "Thank you for awesomely contacting us."
+#     error = "Message could not be send. Please contact us at colin@jumpingrivers.con instead."
 
-#    [params.contact.captcha]
-      # sitekey = ""
+# #    [params.contact.captcha]
+#       # sitekey = ""
 
-    # 'warning' defines error messages for invalid inputs
-    [params.contact.form.name]
-      text = "Your Name *"
-      warning = "Please enter your name."
+#     # 'warning' defines error messages for invalid inputs
+#     [params.contact.form.name]
+#       text = "Your Name *"
+#       warning = "Please enter your name."
 
-    [params.contact.form.email]
-      text = "Your Email *"
-      warning = "Please enter your email address."
+#     [params.contact.form.email]
+#       text = "Your Email *"
+#       warning = "Please enter your email address."
 
-#    [params.contact.form.phone]
-#      text = "Your Phone *"
-#      warning = "Please enter your phone number."
+# #    [params.contact.form.phone]
+# #      text = "Your Phone *"
+# #      warning = "Please enter your phone number."
 
-    [params.contact.form.message]
-      text = "Your Message *"
-      warning = "Please enter a message."
+#     [params.contact.form.message]
+#       text = "Your Message *"
+#       warning = "Please enter a message."
 
-      # Add optional form fields to identify contact forms
-      #[[params.contact.form.hidden]]
-      #  name = "someID"
-      #  value = "example.com"
-      #
-      #[[params.contact.form.hidden]]
-      # Special values for name such as "page" and "site" will be autofilled
-      #  name = "page"
+#       # Add optional form fields to identify contact forms
+#       #[[params.contact.form.hidden]]
+#       #  name = "someID"
+#       #  value = "example.com"
+#       #
+#       #[[params.contact.form.hidden]]
+#       # Special values for name such as "page" and "site" will be autofilled
+#       #  name = "page"
 
   # Footer section
   [params.footer]
