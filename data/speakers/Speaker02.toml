@@ -1,7 +1,10 @@
-img = "faceholder.png"
-name = "Speaker Name 02"
-organisation = "Company 2"
-role = "Role 1"
-social = [
-        ["fa-twitter", "#"],
-      ]
+# img = "robin.jpg"
+# name = "Noa Tamir"
+# organisation = "AUTO1 Group"
+# role = "Director of Data Science"
+# social = [
+#         ["fa-twitter", "https://github.com/robinlovelace"],
+#         ["fa-github", "https://github.com/robinlovelace"],
+#         ["fa-linkedin", "https://www.linkedin.com/in/noatamir/"],
+#         ["fa-globe", "http://noatamir.com/"]
+#       ]
