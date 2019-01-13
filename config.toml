@@ -147,11 +147,11 @@ googleAnalytics = "UA-131777647-1"
   #     # Take ONLY the numeric string between "eid=" and "&ref=etckt"
   #     # Supply this string as the value to `eid` above
 
-  [params.tickettailor]
-    enable = true
-    title = "Register"
-    bg = true
-    eventviewid = "162430"
+  # [params.tickettailor]
+  #   enable = true
+  #   title = "Register"
+  #   bg = true
+  #   eventviewid = "162430"
       # Go to www.tickettailor.com and open your event page
       # Note the number at the end of the url e.g. https://www.tickettailor.com/event/view/id/162430
       # Supply the number ONLY in `eventviewid`
