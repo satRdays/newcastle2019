@@ -87,7 +87,7 @@ googleAnalytics = "UA-131777647-1"
   [params.services]
     enable = true
     title = "About"
-    subtitle = "Conference Details"
+    subtitle = "A one-day, low-cost R conference"
 
     [[params.services.row]]
 
