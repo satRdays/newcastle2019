@@ -1,10 +1,10 @@
-img = "faceholder.png"
-name = "Speaker Name 01"
-organisation = "Company 1"
-role = "Role 1"
+img = "robin.png"
+name = "Robin Lovelace"
+organisation = "University of Leeds"
+#role = "Role 1"
 social = [
-        ["fa-twitter", "#"],
-        ["fa-github", "#"],
-        ["fa-linkedin", "#"],
-        ["fa-globe", "#"]
+        ["fa-twitter", "https://github.com/robinlovelace"],
+        ["fa-github", "https://github.com/robinlovelace"],
+        ["fa-linkedin", "https://www.linkedin.com/in/robin-lovelace-20751a34/"]
+        #["fa-globe", "#"]
       ]
