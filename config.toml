@@ -155,7 +155,7 @@ googleAnalytics = "UA-131777647-1"
       # Go to www.tickettailor.com and open your event page
       # Note the number at the end of the url e.g. https://www.tickettailor.com/event/view/id/162430
       # Supply the number ONLY in `eventviewid`
- [params.university]
+  [params.university]
     enable = true
     title = "Register"
     bg = true
