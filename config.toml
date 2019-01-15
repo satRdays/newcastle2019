@@ -191,7 +191,7 @@ googleAnalytics = "UA-131777647-1"
 
   # Schedule section
   [params.schedule]
-    enable = true
+    enable = false
     title = "Schedule"
     bg = false
 
@@ -245,7 +245,7 @@ googleAnalytics = "UA-131777647-1"
     #subtitle = "The people putting it together"
     bg = false
     description = ""
-    speakers = "Speakers"
+    speakers = "Keynote Speakers"
     
 
     # All team member's pictures are stored under 'static/img/team'.
