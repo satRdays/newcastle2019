@@ -207,26 +207,26 @@ googleAnalytics = "UA-131777647-1"
     # Replace them with your own.
     [[params.about.events]]
       img = "1.jpg"
+      date = "14th January, 2019"
+      title = "Early bird ticket sales"
+      description = "Early round of tickets now available at discount"
+
+    [[params.about.events]]
+      img = "2.jpg"
       date = "20 January, 2019"
       title = "Call for papers"
       description = "Call for papers"
 
-    # [[params.about.events]]
-    #   img = "2.jpg"
-    #   date = "Second Date"
-    #   title = "Early Bird Ticket Sales"
-    #   description = "Early round of tickets now available at discount"
-
     [[params.about.events]]
       img = "3.jpg"
-      date = "27 January, 2019"
-      title = "Registration open"
+      date = "1 February, 2019"
+      title = " Earyl bird discount ends"
       description = "Limited tickets - be quick"
 
     [[params.about.events]]
       img = "4.jpg"
-      date = "22nd February"
-      title = "Call For Papers Ends"
+      date = "22nd February, 2019"
+      title = "Call for papers ends"
       description = "Cut off date for speaker submissions"
   
   # Location section
