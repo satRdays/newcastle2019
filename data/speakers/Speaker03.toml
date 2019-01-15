@@ -1,0 +1,10 @@
+img = "rstudio.png"
+name = "TBC"
+organisation = "RStudio"
+#role = "Director of Data Science"
+social = [
+        ["fa-twitter", "https://github.com/rstudio"],
+        ["fa-github", "https://github.com/rstudio"],
+#        ["fa-linkedin", "https://www.linkedin.com/in/noatamir/"],
+        ["fa-globe", "http://rstudio.com/"]
+      ]
