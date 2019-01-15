@@ -1,0 +1,10 @@
+img = "noa.jpg"
+name = "Noa Tamir"
+organisation = "AUTO1 Group"
+role = "Director of Data Science"
+social = [
+        ["fa-twitter", "https://github.com/robinlovelace"],
+        ["fa-github", "https://github.com/robinlovelace"],
+        ["fa-linkedin", "https://www.linkedin.com/in/noatamir/"],
+        ["fa-globe", "http://noatamir.com/"]
+      ]
