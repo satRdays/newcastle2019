@@ -3,8 +3,8 @@ name = "Noa Tamir"
 organisation = "AUTO1 Group"
 role = "Director of Data Science"
 social = [
-        ["fa-twitter", "https://github.com/robinlovelace"],
-        ["fa-github", "https://github.com/robinlovelace"],
+        ["fa-twitter", "https://twitter.com/noatamir"],
+        ["fa-github", "https://github.com/noatamir"],
         ["fa-linkedin", "https://www.linkedin.com/in/noatamir/"],
         ["fa-globe", "http://noatamir.com/"]
       ]
