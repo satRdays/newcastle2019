@@ -213,7 +213,7 @@ googleAnalytics = "UA-131777647-1"
 
     [[params.about.events]]
       img = "2.jpg"
-      date = "20 January, 2019"
+      date = "14 January, 2019"
       title = "Call for papers"
       description = "Call for papers"
 
