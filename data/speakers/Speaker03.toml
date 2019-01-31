@@ -1,10 +1,9 @@
-img = "rstudio.png"
-name = "TBC"
+img = "thomas.jpg"
+name = "Thomas Lin Pedersen"
 organisation = "RStudio"
-#role = "Director of Data Science"
+role = "Software Engineer"
 social = [
-        ["fa-twitter", "https://twitter.com/rstudio"],
-        ["fa-github", "https://github.com/rstudio"],
-#        ["fa-linkedin", "https://www.linkedin.com/in/noatamir/"],
-        ["fa-globe", "http://rstudio.com/"]
+        ["fa-twitter", "https://twitter.com/thomasp85"],
+        ["fa-github", "https://github.com/thomasp85"],
+        ["fa-globe", "https://data-imaginist.com"]
       ]
