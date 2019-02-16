@@ -225,7 +225,7 @@ googleAnalytics = "UA-131777647-1"
 
     [[params.about.events]]
       img = "4.jpg"
-      date = "16th February, 2019"
+      date = "23th February, 2019"
       title = "Call for papers ends"
       description = "Cut off date for speaker submissions"
   
