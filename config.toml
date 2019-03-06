@@ -191,9 +191,9 @@ googleAnalytics = "UA-131777647-1"
 
   # Schedule section
   [params.schedule]
-    enable = false
+    enable = true
     title = "Schedule"
-    bg = false
+    bg = true
 
   # Important Dates [About] section
   [params.about]
