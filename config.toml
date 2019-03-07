@@ -315,7 +315,7 @@ googleAnalytics = "UA-131777647-1"
     # Suggestion: .svg in the size of 280px*80px looks good
     [[params.clients]]
       logo = "jumping-rivers.png"
-      link = "https://www.jumpingrivers.com"
+      link = "https://www.jumpingrivers.com/?utm_source=satRday&utm_medium=newcastle2019"
 
     [[params.clients]]
       logo = "ncl.png"
